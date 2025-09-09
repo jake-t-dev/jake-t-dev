@@ -1,1 +1,1 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jake-t-dev&theme=github_dark_dimmed&hide=XSLT,Makefile,NSIS&layout=donut&langs_count=20)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jake-t-dev&theme=github_dark_dimmed&hide=XSLT,NSIS&layout=donut&langs_count=20)
